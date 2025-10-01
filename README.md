@@ -18,11 +18,3 @@ Data sources, quality, ethical issues
 Python scripts for importing, structuring, and exploring data
 
 Literature connections and financial applications
-
-Deliverables:
-
-📄 PDF report (answers, explanations, references)
-
-📓 Jupyter Notebooks with Python code
-
-📊 Replicated tables, graphs, and financial analysis
